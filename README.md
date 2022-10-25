@@ -1,5 +1,5 @@
 ## Olá, meu nome é Vinicius Berlink ! 😉
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="top" alt="Computador iuriCode" >
+<img width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" >
 👨‍💻 Graduando em Ciência da Computação
 
 📚 Segue portfólio nos repositórios, agradeço os colaboradores 👍
