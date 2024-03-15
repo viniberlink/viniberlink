@@ -1,22 +1,20 @@
-## Olá, meu nome é Vinicius Berlink ! 😉
-<img width="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" >
-👨‍💻 Graduando em Ciência da Computação
+# Óla, Sejam Bem-Vindos ao meu GitHub! :star:
 
-📚 Segue portfólio nos repositórios, agradeço os colaboradores 👍
+:mortar_board: Graduando em Ciência da Computação
+:dart: Apaixonado pela tecnologia e movido por desafios
+:books: Segue portfólio nos repositórios, agradeço os colaboradores!
 
+<div align="center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-##
+<img align="center" alt="Vinicius-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Vinicius-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Vinicius-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinicius-berlink-8483bb1bb" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
-
+<br>
 
 <div>
-  <img align='left' width="500" src="https://github-readme-stats.vercel.app/api?username=viniberlink&&show_icons=true&theme=chartreuse-dark">
-  <img align="right' width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniberlink">
+<a href="https://github.com/viniberlink">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniberlink&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniberlink&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
