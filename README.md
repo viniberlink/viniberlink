@@ -1,8 +1,10 @@
-# Óla, Sejam Bem-Vindos ao meu GitHub! :star:
+# Óla, sejam bem-vindos ao meu GitHub! :wink:
 
-:mortar_board: Graduando em Ciência da Computação
-:dart: Apaixonado pela tecnologia e movido por desafios
+:mortar_board: Graduando em Ciência da Computação <br>
+:dart: Apaixonado pela tecnologia e movido por desafios <br>
 :books: Segue portfólio nos repositórios, agradeço os colaboradores!
+
+##
 
 <div align="center">
 <div style="display: inline_block"><br>
